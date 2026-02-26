@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Zenin-Toji",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "Lɪ ♡ Sʜɪʏᴀ 🌷",
+  "BOTNAME": "Culling Game",
   "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "61573881870699",
     "61587484619847",
+    "100010700283780",
     ""
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["100010700283780"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
